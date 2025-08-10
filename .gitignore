@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+/.metadata
+/knob/.settings
+knob/knob.code-workspace
